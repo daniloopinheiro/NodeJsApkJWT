@@ -1,4 +1,4 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/daniloopinheiro/nodejs-jwt/badge)](https://www.codefactor.io/repository/github/daniloopinheiro/nodejs-jwt)
+[![CodeFactor](https://www.codefactor.io/repository/github/daniloopinheiro/nodejsapkjwt/badge)](https://www.codefactor.io/repository/github/daniloopinheiro/nodejsapkjwt)
 
 # Nodejs, pequena demostração com JWT
 
